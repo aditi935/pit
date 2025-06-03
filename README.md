@@ -53,7 +53,6 @@ The graph below illustrates actual vs. predicted pit stops on the training set:
 - **Blue Dots**: Predicted vs Actual points  
 - **Red Dashed Line**: Ideal predictions line (perfect match)
 
-![Training Set: Actual vs Predicted Pit Stops](download.png)
 
 ---
 
