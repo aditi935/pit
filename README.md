@@ -64,6 +64,8 @@ The graph below illustrates actual vs. predicted pit stops on the training set:
 - **Red Dashed Line**: Ideal predictions line (perfect match)
 
 
+![image](https://github.com/user-attachments/assets/56fbbad5-1143-4106-83bf-8cc3b99edfd1)
+
 
 ## 🧪 Sample Input Format
 
